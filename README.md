@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Steven
+- 👀 I am interested in saving the climate using artificial intelligence
+- 🌱 I’m currently learning Artificial Intelligence (Deep Learning and Computer Vision) and Signal Processing
+- 💞️ I’m looking to collaborate on anything related to my interests and any project that needs some restructuration
+- 📫 Reach me at my university email : peigne@ecole.ensicaen.fr (valid for life)
